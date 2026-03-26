@@ -107,14 +107,12 @@ pip install datasets kagglehub scikit-learn tensorflow scipy matplotlib seaborn 
 ## Métricas Reportadas
 
 ### Clasificación
-
-| Métrica | Train | Val | Test |
-|---|---|---|---|
-| Accuracy | — | — | — |
-| Precision | — | — | — |
-| Recall | — | — | — |
-| F1-Score | — | — | — |
-
+| Métrica   | Train  | Val    | Test   |
+|-----------|--------|--------|--------|
+| Accuracy  | 1.0000 | 0.8844 | 0.8891 |
+| Precision | 1.0000 | 0.8435 | 0.8522 |
+| Recall    | 1.0000 | 0.7405 | 0.7481 |
+| F1-Score  | 1.0000 | 0.7886 | 0.7967 |
 ### Regresión (CNN)
 
 | Métrica | Train | Val | Test |
