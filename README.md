@@ -119,9 +119,9 @@ pip install datasets kagglehub scikit-learn tensorflow scipy matplotlib seaborn 
 
 | Métrica | Train | Val | Test |
 |---|---|---|---|
-| MAE | — | — | — |
-| RMSE | — | — | — |
-| R² | — | — | — |
+| MAE | 0.6546 | 0.2378 | 0.2281 |
+| RMSE | 0.9036 | 0.5189 | 0.5134 |
+| R² | -0.9898 | 0.3436 | 0.3582 |
 
 
 ---
